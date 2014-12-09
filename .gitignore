@@ -1,0 +1,12 @@
+# Compiled files
+*.pyc
+
+# setup.py working directory
+build
+# setup.py dist directory
+dist
+# Documentation stuff
+**/docs/_build
+# egg metadata
+*.egg-info
+
